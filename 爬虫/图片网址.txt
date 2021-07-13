@@ -1,0 +1,25 @@
+日志网址
+http://www.sws.bom.gov.au/Category/World%20Data%20Centre/Data%20Display%20and%20Download/Spectrograph/eventlogs/culgoora/1994/culgoorarsg9412.txt
+http://www.sws.bom.gov.au/Category/World%20Data%20Centre/Data%20Display%20and%20Download/Spectrograph/eventlogs/learmonth/2001/learmonthrsg0102.txt
+
+图片网址
+http://www.sws.bom.gov.au/Category/World%20Data%20Centre/Data%20Display%20and%20Download/Spectrograph/station/learmonth/images/01/20010201spectrograph.gif
+http://www.sws.bom.gov.au/Category/World%20Data%20Centre/Data%20Display%20and%20Download/Spectrograph/station/culgoora/images/15/20151201spectrograph.gif
+
+
+
+green天文台
+
+https://www.astro.umd.edu/~white/gb/Html/2011/TypeII_ims.html
+https://www.astro.umd.edu/~white/gb/Html/2011/TypeIII_ims.html
+https://www.astro.umd.edu/~white/gb/Html/2011/TypeIV_ims.html
+https://www.astro.umd.edu/~white/gb/Html/2011/Flare_ims.html
+https://www.astro.umd.edu/~white/gb/Html/2011/Continua_ims.html
+https://www.astro.umd.edu/~white/gb/Html/2011/Other_ims.html
+https://www.astro.umd.edu/~white/gb/Html/2011/2011_ims.html
+
+
+<img src="http://www.astro.umd.edu/~white/gb/Data/Images/2011/01/28/20110128_005500_BIRS_ps.png" alt="Image" align="CENTER" valign="TOP">
+
+
+ftp://ftp-out.sws.bom.gov.au/wdc/wdc_spec/data/learmonth/raw/20/LM200101.srs
