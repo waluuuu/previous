@@ -8,6 +8,6 @@
 
 
 这里面的东西已经相当全面了，虽然很多代码还不成熟，有些地方的bug还没有修复。
-现在我写代码，经常要来这里找现成的，发现bug之后，重要的会在SolarRadioBurst中修复了。
+发现bug之后，重要的会在SolarRadioBurst中修复了。
 SolarRadioBurst地址
 https://github.com/han-fuyun/SolarRadioBurst
